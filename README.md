@@ -31,7 +31,9 @@ El puntaje de precisión nos arrojó lo siguiente: 0.8202247191011236
 Este resultado nos muestra que el modelo se ajusta adecuadamente, sin embargo, existe área de oportunidad.
 
 La matriz de confusión arrojó lo siguiente:
+
 <img width="529" alt="Screenshot 2022-09-10 at 2 47 42" src="https://user-images.githubusercontent.com/83677775/189474367-49036fbf-98d9-4b25-bc3c-cfd3915065dc.png">
+
 La matriz de confusión nos permitió visualment identificar los verdaderos positivos, falso negativos, falsos positivos y verdaderos negativos. 
 Considerando esto, el F1 score de nuestro modelo arrojó lo siguiente:
 - F1_score = 0.7837837837837838
