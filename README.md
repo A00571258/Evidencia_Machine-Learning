@@ -38,4 +38,5 @@ Como podemos observar, nuestro modelo presenta una mayor variación que los dato
 Para observar el nivel de ajuste de nuestro modelo consideramos el error cuadrático medio y coeficiente de determinación con los datos de entrenamiento. Si el modelo presenta overfitting estos valores deben dar valores cerca de 0. A nosotros nos dió lo siguiente: 
 - El error cuadratico medio es: 173156661.95266923
 - El coeficiente de determinación es: 0.9551567153288066
+
 Son valores considerablemente altos por lo que declaramos que el nivel de ajust del modelo es: underfitting. 
