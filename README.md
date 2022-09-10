@@ -37,5 +37,7 @@ Considerando esto, el F1 score de nuestro modelo arrojó lo siguiente:
 - F1_score = 0.7837837837837838
 
 Además, quisimos calcular el learning curve del modelo por lo que utlizamos la librería de sklearn. Obtuvimos el siguiente resultado:
+
 <img width="588" alt="Screenshot 2022-09-10 at 2 49 14" src="https://user-images.githubusercontent.com/83677775/189474400-56048175-744e-4174-a26f-d9fd61cf80e1.png">
+
 Notamos que nuestro modelo no presenta overfitting, no es tan simple el modelo para presentar underfitting tampoco. 
